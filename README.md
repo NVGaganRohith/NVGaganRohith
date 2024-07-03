@@ -9,7 +9,7 @@ Fun fact I play Badminton
 -->
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gaganrohith2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nvgagan_rohith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nvgaganrohith) ![X Follow](https://img.shields.io/twitter/follow/https%3A%2F%2Fx.com%2FNVGaganRohith)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gaganrohith2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nvgagan_rohith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nvgaganrohith) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/https%3A%2F%2Fx.com%2FNVGaganRohith)
 
 
 # 💻Tech Stack
