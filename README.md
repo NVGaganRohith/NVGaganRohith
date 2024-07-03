@@ -48,11 +48,19 @@ Here are some ideas to get you started:
 ### 📫 How to reach me
 ### 🤔 Seeking Wisdom
 
+![](https://github-readme-stats.vercel.app/api?username=NVGaganRohith&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NVGaganRohith&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NVGaganRohith&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+
+<h3 align="center">
+  <a href="https://github.com/NVGaganRohith?tab=repositories" title="Show Repositories" style="color:white;">🔎 Show More 🔍</a>
+</h3>
 -->
 
 
@@ -63,7 +71,7 @@ Here are some ideas to get you started:
 ![X](https://img.shields.io/twitter/follow/NVGaganRohith)
 
 
-# 💻Tech Stack
+## 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
@@ -100,11 +108,34 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=NVGaganRohith&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=NVGaganRohith&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NVGaganRohith&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+## 📊GitHub Stats
+
+<p align="center">
+  <div align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width="470" src="https://streak-stats.demolab.com/?user=NVGaganRohith&theme=react&border=61dafb&hide_border=true" alt="NVGaganRohith's streak stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width="470" src="https://github-readme-stats.vercel.app/api?username=NVGaganRohith&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="NVGaganRohith's GitHub stats" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="220" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVGaganRohith&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="NVGaganRohith's top languages" />
+    </a>
+  </div>
+</p>
 
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NVGaganRohith/NVGaganRohith/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
