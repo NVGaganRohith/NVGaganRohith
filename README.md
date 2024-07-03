@@ -3,6 +3,12 @@ I'm currently working on Buidling My portfolio and Currently intern at Genpact\
 I'm looking to collaborate on <b>AI Projects</b>\
 I'm looking for help with Helping me understand Things better\
 I'm currently learning Deep Learning and Related Topics\
+
+🔭 I’m currently working on **AI and DL**
+🌱 I’m currently learning **About Magic Of Data**
+👯 I’m looking to collaborate on **Software Development / AI&ML Projects**
+💬 Ask me about **Technology and Personal Development**
+📫 How to reach me: **gaganrohith2002@gmail.com**
 <!--
 Ask me about AI\
 Fun fact I play Badminton
