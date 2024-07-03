@@ -1,18 +1,33 @@
-# 💫About Me :
-I'm currently working on Buidling My portfolio and Currently intern at Genpact\
-I'm looking to collaborate on <b>AI Projects</b>\
-I'm looking for help with Helping me understand Things better\
-I'm currently learning Deep Learning and Related Topics\
-
-🔭 I’m currently working on **AI and DL**
-🌱 I’m currently learning **About Magic Of Data**
-👯 I’m looking to collaborate on **Software Development / AI&ML Projects**
-💬 Ask me about **Technology and Personal Development**
-📫 How to reach me: **gaganrohith2002@gmail.com**
+# 💫About Me [![](https://visitcount.itsvg.in/api?id=NVGaganRohith&icon=4&color=0)](https://visitcount.itsvg.in)
 <!--
-Ask me about AI\
-Fun fact I play Badminton
+### 🚀 Projects
+📊 **Data Science and Machine Learning Projects**
+- [Project 1](#)
+- [Project 2](#)
+### 🏫 Education
+### 💼 Experience
+### 📫 How to reach me
+### 🤔 Seeking Wisdom
 -->
+
+🔭 I’m currently working on **AI and DL**\
+🌱 I’m currently learning **About Magic Of Data**\
+👯 I’m looking to collaborate on **Software Development / AI&ML Projects**\
+💬 Ask me about **Technology and Personal Development**\
+🧩 I'm on a quest to piece together the vast puzzle of knowledge! Got any tips or insights on AI & Data? Let's explore together!\
+📫 How to reach me: **gaganrohith2002@gmail.com**\
+🎓 Graduated from **VIT Vellore**\
+💼 Intern at **Genpact**
+
+### 🧠 Skills
+- 🤖 Machine Learning
+- 🌐 Deep Learning
+- 💻 Software Development
+- 📈 Data Analysis
+
+### 🌟 Fun Facts
+- 🏸 I play badminton in my free time
+- 📚 I love reading Non-Fiction
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gaganrohith2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nvgagan_rohith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nvgaganrohith) ![X](https://img.shields.io/twitter/follow/NVGaganRohith)
