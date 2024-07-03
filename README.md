@@ -1,7 +1,6 @@
 # 💫About Me :
 I'm currently working on Buidling My portfolio and Currently intern at Genpact\
-I'm looking to collaborate on
-## ML or DL Projects\
+I'm looking to collaborate on <b>ML or DL Projects<b>\
 I'm looking for help with Helping me understand Things better\
 I'm currently learning Deep Learning and Related Topics\
 Ask me about AI\
