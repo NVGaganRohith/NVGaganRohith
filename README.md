@@ -3,8 +3,10 @@ I'm currently working on Buidling My portfolio and Currently intern at Genpact\
 I'm looking to collaborate on <b>AI Projects</b>\
 I'm looking for help with Helping me understand Things better\
 I'm currently learning Deep Learning and Related Topics\
+<!--
 Ask me about AI\
 Fun fact I play Badminton
+-->
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gaganrohith2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nvgagan_rohith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nvgaganrohith) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NVGaganRohith) 
