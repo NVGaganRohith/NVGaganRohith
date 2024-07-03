@@ -1,6 +1,7 @@
 # 💫About Me :
 I'm currently working on Buidling My portfolio and Currently intern at Genpact\
-I'm looking to collaborate on ML or DL Projects\
+I'm looking to collaborate on
+## ML or DL Projects\
 I'm looking for help with Helping me understand Things better\
 I'm currently learning Deep Learning and Related Topics\
 Ask me about AI\
@@ -19,11 +20,6 @@ Fun fact I play Badminton
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=NVGaganRohith&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!--
